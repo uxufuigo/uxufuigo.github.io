@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uxufuigo.github.io/FbC/sitemap_index.txt
+Sitemap: https://uxufuigo.github.io/KaE/sitemap_index.txt
+Sitemap: https://uxufuigo.github.io/spn/sitemap_index.txt
+Sitemap: https://uxufuigo.github.io/xkb/sitemap_index.txt
